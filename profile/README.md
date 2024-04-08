@@ -1,11 +1,11 @@
-# dTelecom - Decentralized Сommunications Infrastructure
+# dTelecom - Decentralized Real-Time Communication
 
-dTelecom is an open-source communication infrastructure enabling audio/video conferencing and live streaming using WebRTC technology. It's crafted to deliver all the necessary components to integrate real-time video and audio functionalities into your applications.
+dTelecom is a decentralized platform for real-time communication, enabling users to build apps with live audio, video, and data features while saving up to 95% in costs. It allows users to own their resources, network, and data, and earn by sharing bandwidth, embodying the principle "Powered by People".
 
-Our transparent pricing model allows clients to save up to 95% on real-time experiences. With fixed rates based on the number of online participants and unlimited minutes, the cost puzzle becomes easier to solve. It's a perfect fit for those with active participants engaging in regular sessions.
-
-* [About dTelecom](https://dtelecom.org)
-* [Decentralized Live Video SDK](https://video.dtelecom.org)
-* [User documentation](https://docs.dtelecom.org)
+* [Website](https://dtelecom.org)
+* [Whitepaper](https://dtelecom.org/dTelecom_whitepaper.pdf)
+* [Decentralized Live Video SDK/API](https://video.dtelecom.org)
+* [dMeet - Web3 Meeting App](https://dmeet.org/)
+* [dMeet - Docs](https://docs.dmeet.org/)
 * [Twitter](https://twitter.com/dTel_org)
 * [Discord](https://discord.com/invite/VSSG2zQsJr)
