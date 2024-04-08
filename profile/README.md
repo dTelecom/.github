@@ -8,4 +8,4 @@ dTelecom is a decentralized platform for real-time communication, enabling users
 * [dMeet - Web3 Meeting App](https://dmeet.org/)
 * [dMeet - Docs](https://docs.dmeet.org/)
 * [Twitter](https://twitter.com/dTel_org)
-* [Discord](https://discord.com/invite/VSSG2zQsJr)
+* [Discord](https://discord.gg/dtelecom)
