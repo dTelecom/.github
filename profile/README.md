@@ -1,11 +1,13 @@
-# dTelecom - Decentralized Real-Time Communication
+# dTelecom - Decentralized Real-Time Communication with AI
 
-dTelecom is a decentralized platform for real-time communication, enabling users to build apps with live audio, video, and data features while saving up to 95% in costs. It allows users to own their resources, network, and data, and earn by sharing bandwidth, embodying the principle "Powered by People".
+dTelecom is a decentralized real-time communication network that enables developers to integrate voice, video, and chat into apps with low latency and AI-powered features. Built on a DePIN architecture, it offers secure, scalable, and censorship-resistant communication without centralized servers or intermediaries.
 
 * [Website](https://dtelecom.org)
 * [Whitepaper](https://dtelecom.org/dTelecom_whitepaper.pdf)
 * [Decentralized Live Video SDK/API](https://video.dtelecom.org)
-* [dMeet - Web3 Meeting App](https://dmeet.org/)
-* [dMeet - Docs](https://docs.dmeet.org/)
+* [dMeet - Video Conferencing](https://dmeet.org/)
+* [dMeet - Livestreaming](https://live.dmeet.org/)
+* [dMeet - AI Voice Agent](https://ai.dmeet.org/)
+* [dMeet - Spatial Meeting](https://spatial.dmeet.org/)
 * [Twitter](https://twitter.com/dTel_org)
 * [Discord](https://discord.gg/dtelecom)
