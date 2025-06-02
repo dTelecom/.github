@@ -1,4 +1,4 @@
-# dTelecom - Decentralized Real-Time Communication with AI, Built on Solana
+# dTelecom - Decentralized Real-Time Communication with AI
 
 dTelecom is a decentralized real-time communication network that enables developers to integrate voice, video, and chat into apps with low latency and AI-powered features. Built on Solana and leveraging a DePIN architecture, it offers secure, scalable, and censorship-resistant communication without centralized servers or intermediaries. Solana's high-speed and low-cost infrastructure makes it the ideal foundation for delivering real-time experiences at global scale.
 
