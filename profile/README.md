@@ -9,5 +9,5 @@ dTelecom is a decentralized real-time communication network that enables develop
 * [dMeet - Livestreaming](https://live.dmeet.org/)
 * [dMeet - AI Voice Agent](https://ai.dmeet.org/)
 * [dMeet - Spatial Meeting](https://spatial.dmeet.org/)
-* [X/Twitter](https://twitter.com/dTel_org)
+* [X/Twitter](https://twitter.com/dtelecom)
 * [Discord](https://discord.gg/dtelecom)
