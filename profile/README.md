@@ -22,7 +22,7 @@ dTelecom Cloud is a real-time voice, video and speech API for AI agents and apps
 ## Links
 
 - [Website](https://dtelecom.org)
-- [Dashboard](https://cloud.dtelecom.org)
+- [Cloud](https://cloud.dtelecom.org)
 - [Docs](https://docs.dtelecom.org)
 - [Status](https://status.dtelecom.org)
 - [Pay-per-use gateway for agents](https://x402.dtelecom.org)
