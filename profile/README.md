@@ -1,23 +1,21 @@
 # dTelecom Cloud - Real-time voice, video and speech API
 
-dTelecom Cloud is a real-time voice, video and speech API for AI agents and apps. One SDK and one balance for WebRTC rooms, speech-to-text, text-to-speech and translation, running on a distributed network across four continents. The SDKs are open source and LiveKit-compatible.
+dTelecom Cloud is a real-time voice, video and speech API for AI agents and apps. One SDK and one balance for WebRTC rooms, speech-to-text, text-to-speech and translation, running on a distributed network across four continents. The open-source SDKs and their Cloud compatibility are listed in the [SDK catalog](https://docs.dtelecom.org/reference/sdks/).
 
 ## What you can build
 
 - **Voice AI agents** - rooms, streaming STT and TTS wired to any LLM. You pay your LLM provider directly, no markup.
-- **Video calls and meetings** - HD video inside your product, on Web, iOS and Android.
+- **Video calls and meetings** - Embed browser calls and meetings in your product.
 - **Live streaming and audio rooms** - one host or many, with thousands of viewers.
 - **Pay-per-use for agents** - autonomous agents buy voice, STT and TTS per request. No API key, no account.
 
 ## Start here
 
-- [agents-js](https://github.com/dTelecom/agents-js) - AI voice agent framework for dTelecom rooms
-- [client-sdk-js](https://github.com/dTelecom/client-sdk-js) - browser client SDK
-- [server-sdk-js](https://github.com/dTelecom/server-sdk-js) - server SDK for Node.js
-- [components-js](https://github.com/dTelecom/components-js) - React components and examples
-- [x402-client](https://github.com/dTelecom/x402-client) - SDK for agents that pay per request
-- [ai-tutor-demo](https://github.com/dTelecom/ai-tutor-demo) - AI language tutor built with agents-js
-- [conference-example](https://github.com/dTelecom/conference-example) - video conferencing web app
+- **Add calls to a web app.** Connect two participants with the [browser quickstart](https://docs.dtelecom.org/quickstart/), or explore [dTelecom Meet](https://github.com/dTelecom/dtelecom-meet) for a complete React app.
+- **Issue a token from your backend.** Use the [JavaScript/TypeScript server SDK](https://github.com/dTelecom/server-sdk-js) or the [Go server SDK](https://github.com/dTelecom/server-sdk-go) to return a participant token and its matching node URL.
+- **Build a voice agent.** Run the [TypeScript agent example](https://github.com/dTelecom/agents-js/blob/main/examples/basic-agent.ts). The [AI tutor demo](https://github.com/dTelecom/ai-tutor-demo) uses the x402 payment flow.
+
+For livestreaming and OBS/WHIP, see [dTelecom Live](https://github.com/dTelecom/dtelecom-live). For pay-per-use integrations, see the [x402 client](https://github.com/dTelecom/x402-client).
 
 ## Links
 
