@@ -5,13 +5,14 @@ dTelecom Cloud is a real-time voice, video and speech API for AI agents and apps
 ## What you can build
 
 - **Voice AI agents** - rooms, streaming STT and TTS wired to any LLM. You pay your LLM provider directly, no markup.
-- **Video calls and meetings** - Embed browser calls and meetings in your product.
+- **Video calls and meetings** - Embed calls in a web app or a React Native app for iOS and Android.
 - **Live streaming and audio rooms** - one host or many, with thousands of viewers.
 - **Pay-per-use for agents** - autonomous agents buy voice, STT and TTS per request. No API key, no account.
 
 ## Start here
 
 - **Add calls to a web app.** Connect two participants with the [browser quickstart](https://docs.dtelecom.org/quickstart/), or explore [dTelecom Meet](https://github.com/dTelecom/dtelecom-meet) for a complete React app.
+- **Add calls to a mobile app.** Use the [React Native SDK](https://github.com/dTelecom/client-sdk-react-native) for iOS and Android. The [mobile example](https://github.com/dTelecom/client-sdk-react-native/tree/dtelecom-m150/example) accepts Meet and Live invites by QR code or link.
 - **Issue a token from your backend.** Use the [JavaScript/TypeScript server SDK](https://github.com/dTelecom/server-sdk-js) or the [Go server SDK](https://github.com/dTelecom/server-sdk-go) to return a participant token and its matching node URL.
 - **Build a voice agent.** Run the [TypeScript agent example](https://github.com/dTelecom/agents-js/blob/main/examples/basic-agent.ts). The [AI tutor demo](https://github.com/dTelecom/ai-tutor-demo) uses the x402 payment flow.
 
